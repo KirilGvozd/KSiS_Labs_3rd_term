@@ -1,0 +1,22 @@
+﻿  Source.cpp
+D:\Semestr_3\KSiS\Lab5\Lab5\Source.cpp(14,1): warning C4005: 'IP_DEST_NET_UNREACHABLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(173): message : see previous definition of 'IP_DEST_NET_UNREACHABLE'
+D:\Semestr_3\KSiS\Lab5\Lab5\Source.cpp(15,1): warning C4005: 'IP_DEST_HOST_UNREACHABLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(174): message : see previous definition of 'IP_DEST_HOST_UNREACHABLE'
+D:\Semestr_3\KSiS\Lab5\Lab5\Source.cpp(16,1): warning C4005: 'IP_DEST_PROT_UNREACHABLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(175): message : see previous definition of 'IP_DEST_PROT_UNREACHABLE'
+D:\Semestr_3\KSiS\Lab5\Lab5\Source.cpp(17,1): warning C4005: 'IP_DEST_PORT_UNREACHABLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(176): message : see previous definition of 'IP_DEST_PORT_UNREACHABLE'
+D:\Semestr_3\KSiS\Lab5\Lab5\Source.cpp(18,1): warning C4005: 'IP_REQ_TIMED_OUT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(181): message : see previous definition of 'IP_REQ_TIMED_OUT'
+D:\Semestr_3\KSiS\Lab5\Lab5\Source.cpp(19,1): warning C4005: 'IP_BAD_REQ': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(182): message : see previous definition of 'IP_BAD_REQ'
+D:\Semestr_3\KSiS\Lab5\Lab5\Source.cpp(20,1): warning C4005: 'IP_BAD_ROUTE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(183): message : see previous definition of 'IP_BAD_ROUTE'
+D:\Semestr_3\KSiS\Lab5\Lab5\Source.cpp(21,1): warning C4005: 'IP_TTL_EXPIRED_TRANSIT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ipexport.h(184): message : see previous definition of 'IP_TTL_EXPIRED_TRANSIT'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Lab5.vcxproj -> D:\Semestr_3\KSiS\Lab5\Lab5\x64\Release\Lab5.exe
